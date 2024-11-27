@@ -1,0 +1,10 @@
+/*
+ * lsm9ds1_read.c
+ *
+ *  Created on: Nov 15, 2024
+ *      Author: siong
+ */
+
+
+#include "lsm9ds1_read.h"
+#include "lsm9ds1_reg.h"
